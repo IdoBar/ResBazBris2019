@@ -19,6 +19,7 @@ output:
 class: title-slide
 
 ```{r setup, include=FALSE}
+pacman::p_load(icon, xaringan)
 options(htmltools.dir.version = FALSE)
 ```
 
@@ -33,6 +34,12 @@ options(htmltools.dir.version = FALSE)
 <font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [IdoBar](https://github.com/idobar)
 
 ---
+name: poll
+class: top, left, animated, fadeIn
+# Why doing a PhD? (in a word or two)
+<img src="img/poll_QR.png" alt="" width="60%", align="center"/>
+
+???
 ## Layout
 
 - PhD is a long and winding road
@@ -138,12 +145,34 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f3/Defens
 .left[.foot-credit[Image credit: [Von Sgt. Michael J. MacLeod, U.S. Army - www.defense.gov, Gemeinfrei](https://commons.wikimedia.org/w/index.php?curid=20679138)]]
 
 ---
+# Meeting with your supervisor
+
+https://youtu.be/gHj45r8vl9Q?t=281
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/gHj45r8vl9Q?autoplay=1&start=281&end=291&loop=1&playlist=gHj45r8vl9Q"
+  frameborder="0"></iframe>
+
+https://www.youtube.com/v/gHj45r8vl9Q?
+    &start=281&end=291
+    &loop=1
+    &playlist=gHj45r8vl9Q
+
+---
 name: pull-you-out
 class: top, left, animated, fadeIn
 background-size: contain
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/RuggedManiacWallHelp.jpg/1920px-RuggedManiacWallHelp.jpg)
 
 .foot-credit[Image credit: [Von Jsslee - Eigenes Werk, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=44779272)]
+
+---
+name: poll_results
+class: top, left, animated, fadeIn
+# Why doing a PhD?
+--
+<iframe src="https://embed.polleverywhere.com/free_text_polls/xTzrbqnYFqsEX2CtfnHw8?controls=none&short_poll=true" width="800" height="600" frameBorder="0"></iframe>
+
 
 ---
 
