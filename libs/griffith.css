@@ -20,10 +20,15 @@ Updated: 05/07/2019
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
+.img {
+  margin: 0 auto; 
+  display: block;
+}
+
 /* H1 fonts */
 .title-slide h1 {
   color: #515151;
-  padding-top: 250px;
+  padding-top: 200px;
   font-weight: normal;
   font-size: 60px;
   text-align: left;
@@ -198,4 +203,55 @@ div.horizontalgap {
   overflow: hidden;
   height: 1px;
   width: 2px;
+}
+
+/* Masonry settings */
+.grid{
+  margin-left: 80px;
+  
+}
+
+.grid-item {
+  float: left; 
+/*  margin: 0 auto; 
+  display: block; */
+  width: 240px;
+  height: 180px;
+  padding: 0.2em;
+  border: 2px solid #333;
+  border-color: hsla(0, 0%, 0%, 0.5);
+  border-radius: 5px;
+}
+
+.grid-item--width1 { width: 200px; }
+.grid-item--width2 { width: 320px; }
+.grid-item--width3 { width: 480px; }
+.grid-item--width4 { width: 640px; }
+
+.grid-item--height2 { height: 200px; }
+.grid-item--height3 { height: 260px; }
+.grid-item--height4 { height: 360px; }
+.grid-item--height5 { height: 420px; }
+
+.left-caption {
+  /* color: #777;
+  height: 92%; */
+  width: 38%;
+  float: left;
+}
+.right-pic {
+  width: 50%;
+  float: right;
+  padding-left: 1%;
+}
+.bottom-right {
+right: 5px;
+bottom: 5px;
+position: absolute;
+}
+
+.bottom-left {
+left: 5px;
+bottom: 5px;
+position: absolute;
 }

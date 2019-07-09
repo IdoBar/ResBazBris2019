@@ -8,6 +8,7 @@ output:
   xaringan::moon_reader:
     lib_dir: libs
     nature:
+      ratio: 16:9
       beforeInit: "https://platform.twitter.com/widgets.js"
       highlightStyle: github
       background-size: contain
@@ -26,6 +27,8 @@ options(htmltools.dir.version = FALSE)
 <img src="https://resbaz.github.io/resbaz2018/img/resbaz_logos/ResBaz_transparent_cropped.png" alt="ResBaz" width="250" align="right"/>
 # How to make it through a PhD?  &nbsp; &nbsp;`r icon::fa("user-graduate")`
 
+<br>
+<br>
 
 ### Ido Bar | PhD
 ### Griffith University 
@@ -33,32 +36,14 @@ options(htmltools.dir.version = FALSE)
 
 <font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [IdoBar](https://github.com/idobar)
 
----
-name: poll
-class: top, left, animated, fadeIn
-# Why doing a PhD? (in a word or two)
-<img src="img/poll_QR.png" alt="" width="60%", align="center"/>
-
-???
-## Layout
-
-- PhD is a long and winding road
-- Full of obstacles and hardships
-- But you're not doing it on your own
-- The harder it gets the closer you get to your peers
-- They will pull you up when needed (and you will pull them)
-- What is it for? What's the end result
-- You becoming stronger, more resilient, independant, mature
-- It's your journey, enjoy it!
-
 
 ---
 name: steps-to-phd
 class: top, left, animated, fadeIn
  
-# Steps to PhD
+# Road to PhD
 
-<img src="https://www.grad.ubc.ca/sites/default/files/image/pane/gameplan_web.jpg" alt="Steps to PhD" width="90%" align="center"/>
+<img src="https://www.grad.ubc.ca/sites/default/files/image/pane/gameplan_web.jpg" alt="Steps to PhD" />
 
 
 .foot-credit[Image credit: [Graduate and Postdoctoral Studies - University of British Columbia](https://www.grad.ubc.ca/current-students/professional-development/graduate-game-plan)]
@@ -68,8 +53,6 @@ name: road-to-phd
 class: top, left, animated, fadeIn
 
 # Actual road to PhD
-
---
 
 .pull-left[
 ![mess](https://threechinguz.files.wordpress.com/2015/01/slide1.jpg)
@@ -83,46 +66,73 @@ class: top, left, animated, fadeIn
 .pull-bottom[.pull-right[
 ![obstacles](https://www.vakpracht.nl/wp-content/uploads/2019/02/20190227-plan-en-werkelijkheid.jpg)]]
 
+
+???
+
+- PhD is a long and winding road
+- Full of obstacles and hardships
+
 ---
-name: obstacles
+name: academic-obstacles
 class: top, left, animated, fadeIn
 
 
 # Hurdles and Obstacles
 
-<img src="img/actual_road_obstacles.jpg" alt="Obstacles during PhD" width="90%", align="center"/>
+<img src="img/actual_road_obstacles.jpg" alt="Obstacles during PhD" width="80%" style="margin: 0 auto; display: block;"/>
 
 --
-## How to cope?
+.big[Academic] 
+
+- Experimental
+- Milestones
+- Writing
+- Supervisor
+
+
+---
+name: crawling-in-mud
+class: bottom, right, animated, fadeIn
+background-size: contain
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f3/Defense.gov_News_Photo_110408-A-3108M-004_-_U.S._Army_1st_Lt._Andrew_McKinley_crawls_through_a_muddy_obstacle_as_he_and_his_team_of_officers_complete_a_testing_course_during_Prop_Blast_a.jpg)
+
+## A day in the (PhD) life...
+
+.left[.foot-credit[Image credit: [Von Sgt. Michael J. MacLeod, U.S. Army - www.defense.gov, Gemeinfrei](https://commons.wikimedia.org/w/index.php?curid=20679138)]]
 
 ???
+- Trying to keep your head above the muddy water
+- Maybe add a slide about writing block
+---
+
+# Progress meetings with your supervisor
+
+.pull-left[.big[.black[The pit of Despair]] <br><br/> <img src="http://static.dailyforest.com/wp-content/uploads/2017/06/22130545/The-Machine-in-The-Pit-of-Despair.jpg" />]
+
+
+--
+<div style="position: absolute; 
+  bottom: 50px; right: 100px">  <a href="http://freegifmaker.me/images/2fJ9v/"><img  src="http://i.freegifmaker.me/1/5/6/2/6/7/1562676867448182.gif?1562676894" alt="gifs website"/></a><br/><a href="http://www.freegifmaker.me/">FreeGifMaker.me<a/> </div>
+
+
+---
+name: personal-obstacles
+class: top, left, animated, fadeIn
+
+
+# Hurdles and Obstacles
+
+<img src="img/actual_road_obstacles.jpg" alt="Obstacles during PhD"/>
+
+--
+### Personal
+
 - Breakups (serious!)
 - Mental health
 - Loneliness
-- Child loss
+- Child birth and loss
 
 
----
-name: alone-in-the-mud
-class: top, left, animated, fadeIn
-background-size: contain
-background-image: url(https://media.defense.gov/2016/Jul/27/2001584326/-1/-1/0/160716-A-EQ933-021.JPG) 
-
-.foot-credit[Image credit: [Staff Sgt. Clifford Coy](https://www.usar.army.mil/Commands/Geographic/63rd-Readiness-Division/Photo-Page/igphoto/2001584326/)]
-
-## .white[It feels like this]
-
----
-name: together-in-mud
-class: top, left, animated, fadeIn
-background-size: contain
-background-image: url(https://i1.wp.com/toughmudder.com.au/wp-content/uploads/2018/12/46493611_1912900635432170_3984463782091948032_o.jpg?fit=1848%2C1230&ssl=1)
-
-
-
-.foot-credit[Image credit: [Mathew Farrell](https://toughmudder.com.au)]
-
-## .white[It is more like this]
 
 ---
 name: more-in-mud
@@ -132,32 +142,26 @@ background-image: url(https://media.defense.gov/2012/Feb/15/2000178303/-1/-1/0/1
 
 .foot-credit[Image credit: [U.S. Air Force photo/Staff Sgt. Alexy Saltekoff](https://www.afrc.af.mil/News/Article-Display/Article/157039/airmen-prove-they-are-tough-mudders/)]
 
-## .white[Or like this]
+## .white[Typical lab group photo]
+
+???
+
+- But you're not doing it on your own
+- The harder it gets the closer you get to your peers
 
 ---
-name: crawling-in-mud
-class: bottom, right, animated, fadeIn
+name: together-in-mud
+class: top, left, animated, fadeIn
 background-size: contain
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f3/Defense.gov_News_Photo_110408-A-3108M-004_-_U.S._Army_1st_Lt._Andrew_McKinley_crawls_through_a_muddy_obstacle_as_he_and_his_team_of_officers_complete_a_testing_course_during_Prop_Blast_a.jpg)
+background-image: url(https://i1.wp.com/toughmudder.com.au/wp-content/uploads/2018/12/46493611_1912900635432170_3984463782091948032_o.jpg?fit=1848%2C1230&ssl=1)
 
-## On tough days, even this
+.foot-credit[Image credit: [Mathew Farrell](https://toughmudder.com.au)]
 
-.left[.foot-credit[Image credit: [Von Sgt. Michael J. MacLeod, U.S. Army - www.defense.gov, Gemeinfrei](https://commons.wikimedia.org/w/index.php?curid=20679138)]]
+## .white[It is more like this]
 
----
-# Meeting with your supervisor
-
-https://youtu.be/gHj45r8vl9Q?t=281
-
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/gHj45r8vl9Q?autoplay=1&start=281&end=291&loop=1&playlist=gHj45r8vl9Q"
-  frameborder="0"></iframe>
-
-https://www.youtube.com/v/gHj45r8vl9Q?
-    &start=281&end=291
-    &loop=1
-    &playlist=gHj45r8vl9Q
-
+???
+The chemistry of hardship:
+The harder it gets, the closer you get to your peers
 ---
 name: pull-you-out
 class: top, left, animated, fadeIn
@@ -166,33 +170,51 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/
 
 .foot-credit[Image credit: [Von Jsslee - Eigenes Werk, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=44779272)]
 
+???
+
+- They will pull you up when needed (and you will pull them)
+
 ---
+
+# They will be there for you
+
+.pull-left[<img src="img/IMG_2699.JPG"/>]
+
+
+.pull-right[<img src="img/IMG_2694.JPG"/>]
+
+???
+
+- In the toughest moments, your friends will be there for you as a safety net
+
+
+---
+
+name: poll
+class: top, left, animated, fadeIn
+# What do you expect to get from your PhD?
+
+<img src="img/poll_QR.png" alt="" width="60%" style="margin: 0 auto; display: block;"/>
+
+.big[Scan the QR code to fill a quick poll (in a word or two)] 
+ 
+---
+
 name: poll_results
 class: top, left, animated, fadeIn
-# Why doing a PhD?
---
-<iframe src="https://embed.polleverywhere.com/free_text_polls/xTzrbqnYFqsEX2CtfnHw8?controls=none&short_poll=true" width="800" height="600" frameBorder="0"></iframe>
 
+<iframe src="https://embed.polleverywhere.com/free_text_polls/xTzrbqnYFqsEX2CtfnHw8?controls=none&short_poll=true" width="800" height="600" frameBorder="0" style="margin: 0 auto; display: block;"></iframe>
 
----
-
-name: graduation
-class: top, left, animated, fadeIn
-
-# What is it for?
---
-
-<img src="img/graduation.JPG" alt="graduation" width="90%", align="center"/>
 
 ---
 
 name: thesis-on-shelf
 class: top, left, animated, fadeIn
 
-# What is it for?
+# So what is it for?
 --
 
-<img src="img/thesis_on_shelf.jpeg" alt="thesis-on-shelf" width="90%", align="center"/>
+<img src="img/thesis_on_shelf.jpeg" alt="thesis-on-shelf" width="90%" style="margin: 0 auto; display: block;"/>
 
 
 ---
@@ -205,12 +227,58 @@ background-image: url("img/we-want-you-png-93-images-in-collection-page-1-i-want
 
 ---
 name: tweet
-class: middle, center, animated, fadeIn
+class: top, left, animated, fadeIn
 
 # Most significant output
+<br>
+<br>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ten years after closing my lab, I've concluded that my most significant contribution to science in my twenty years as a active researcher wasn't a paper or a finding. It was the scientists that I mentored.</p>&mdash; Mary Ellen Lane (@MaryEllenLane29) <a href="https://twitter.com/MaryEllenLane29/status/1144025194752819201?ref_src=twsrc%5Etfw">June 26, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Ten years after closing my lab, I've concluded that my most significant contribution to science in my twenty years as an active researcher wasn't a paper or a finding. It was the scientists that I mentored.</p>&mdash; Mary Ellen Lane (@MaryEllenLane29) <a href="https://twitter.com/MaryEllenLane29/status/1144025194752819201?ref_src=twsrc%5Etfw">June 26, 2019</a></blockquote>
 
+---
+
+# A better researcher (you!)
+
+.pull-left[.big[
+- Expert in your field
+- Independent
+- Mature
+- Resilient
+- Connected
+]]
+
+--
+
+.pull-right[<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/game-of-thrones-season-8-finale-arya-stark-1558351313.jpg"/>]
+
+???
+
+- What is it for? What's the end result
+- You becoming stronger, more resilient, independent, mature
+- It's your journey, enjoy it!
+
+
+---
+
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+# Invest in your social life and wellbeing
+
+<div class="grid" style="text-align:center">
+--
+  <div class="grid-item"><img src="img/beers_on_the_kayak.jpg"/></div>
+--
+  <div class="grid-item grid-item--width2"><img src="img/having_beers.jpg"/></div>
+--
+  <div class="grid-item grid-item--width2"><img src="img/fishing_with_paul.jpg"/></div>
+--
+  <div class="grid-item "><img src="img/party_at_Dave.jpg"/></div>
+  
+</div>
+ 
+???
+
+- It's your journey, enjoy it!
 
 ---
 name: summary
@@ -221,11 +289,25 @@ background-image: url(http://phdcomics.com/comics/archive/phd030110s.gif)
 
 .foot-credit[Image credit: [Jorge Cham @ 2010](http://phdcomics.com/comics/archive.php?comicid=1286)]
 
+
 ---
-name: balance
+class: title-slide-final, left
+
+
+
+# Thank you! <img src="https://resbaz.github.io/resbaz2018/img/resbaz_logos/ResBaz_transparent_cropped.png" alt="ResBaz" width="250" align="right"/>
+
+
+<font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [IdoBar/ResBazBris2019](https://idobar.github.io/ResBazBris2019/)
+
+
+<img src="img/graduation.jpg" alt="thesis-on-shelf" width="90%" style="margin: 0 auto; display: block;"/>
+---
+name: alone-in-the-mud
 class: top, left, animated, fadeIn
 background-size: contain
-background-image: url(https://live.staticflickr.com/2631/3947478553_afa6c3aa1a_o.png)
+background-image: url(https://media.defense.gov/2016/Jul/27/2001584326/-1/-1/0/160716-A-EQ933-021.JPG) 
 
-.foot-credit[Image credit: [Pirate Unicycle | by frozenhaddock](https://creativecommons.org/licenses/by-nc-sa/2.0/)]
+.foot-credit[Image credit: [Staff Sgt. Clifford Coy](https://www.usar.army.mil/Commands/Geographic/63rd-Readiness-Division/Photo-Page/igphoto/2001584326/)]
 
+## .white[It feels like this]
