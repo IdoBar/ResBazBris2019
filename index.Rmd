@@ -302,4 +302,4 @@ class: title-slide-final, left
 <font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [IdoBar/ResBazBris2019](https://idobar.github.io/ResBazBris2019/)
 
 
-<img src="img/graduation.jpg" alt="thesis-on-shelf" width="65%" style="margin: 0 auto; display: block;"/>
+<img src="img/graduation.JPG" alt="graduation" width="65%" style="margin: 0 auto; display: block;"/>
