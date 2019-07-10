@@ -14,7 +14,7 @@ Updated: 05/07/2019
 /* Add image and change bg color */
 .title-slide {
   background-image: url(https://www.griffith.edu.au/__data/assets/image/0018/653121/Griffith_Full_Logo_scaled.png);
-  background-position: 15% 8%; /*  */
+  background-position: 10% 8%; /*  */
   background-size: 200px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
