@@ -299,7 +299,7 @@ class: title-slide-final, left
 # Thank you! <img src="https://resbaz.github.io/resbaz2018/img/resbaz_logos/ResBaz_transparent_cropped.png" alt="ResBaz" width="250" align="right"/>
 
 
-<font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [IdoBar/ResBazBris2019](https://idobar.github.io/ResBazBris2019/)
+<font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [.white[@DrIdoBar]](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [.white[i.bar@griffith.edu.au]](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [.white[IdoBar/ResBazBris2019]](https://idobar.github.io/ResBazBris2019/)
 
 
 <img src="img/graduation.JPG" alt="graduation" width="65%" style="margin: 0 auto; display: block;"/>
