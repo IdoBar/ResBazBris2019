@@ -20,12 +20,12 @@ output:
 class: title-slide
 
 ```{r setup, include=FALSE}
-pacman::p_load(icon, xaringan)
+pacman::p_load(fontawesome, xaringan)
 options(htmltools.dir.version = FALSE)
 ```
 
 <img src="https://resbaz.github.io/resbaz2018/img/resbaz_logos/ResBaz_transparent_cropped.png" alt="ResBaz" width="250" align="right"/>
-# How (or why) to make it through a PhD?  &nbsp; &nbsp;`r icon::fa("user-graduate")`
+# How (or why) to make it through a PhD?  &nbsp; &nbsp;`r fa("user-graduate")`
 
 <br>
 <br>
@@ -34,7 +34,7 @@ options(htmltools.dir.version = FALSE)
 ### Griffith University 
 ### Environmental Futures Research Institute
 
-<font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [IdoBar](https://github.com/idobar)
+<font color="#1DA1F2" size="6">`r fa("twitter")`</font> [@DrIdoBar](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r fa("paper-plane")`</font> [i.bar@griffith.edu.au](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r fa("github")`</font> [IdoBar](https://github.com/idobar)
 
 
 ---
@@ -93,13 +93,14 @@ class: top, left, animated, fadeIn
 
 # Progress meetings with your supervisor
 
-.pull-left[.big[.black[The pit of Despair]] <br><br/> <img src="http://static.dailyforest.com/wp-content/uploads/2017/06/22130545/The-Machine-in-The-Pit-of-Despair.jpg" />]
+.pull-left[.big[.black[The pit of Despair]] <br><br/> ]
+
+<img src="http://static.dailyforest.com/wp-content/uploads/2017/06/22130545/The-Machine-in-The-Pit-of-Despair.jpg"  width="80%" style="margin: 0 auto; display: block;"/>
 
 
-
---
-<div style="position: absolute; 
-  bottom: 50px; right: 100px">  <a href="http://freegifmaker.me/images/2fJ9v/"><img  src="http://i.freegifmaker.me/1/5/6/2/6/7/1562676867448182.gif?1562676894" alt="gifs website"/></a><br/><a href="http://www.freegifmaker.me/">FreeGifMaker.me<a/> </div>
+<!-- -- -->
+<!-- <div style="position: absolute;  -->
+<!--   bottom: 50px; right: 100px">  <a href="http://freegifmaker.me/images/2fJ9v/"><img  src="http://i.freegifmaker.me/1/5/6/2/6/7/1562676867448182.gif?1562676894" alt="gifs website"/></a><br/><a href="http://www.freegifmaker.me/">FreeGifMaker.me<a/> </div> -->
 
 
 ---
@@ -133,23 +134,23 @@ background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f3/Defens
 - Trying to keep your head above the muddy water
 - Maybe add a slide about writing block
 
----
-name: alone-in-the-mud
-class: top, left, animated, fadeIn
-background-size: contain
-background-image: url(https://media.defense.gov/2012/Feb/15/2000178303/1088/820/0/120212-F-QU140-134.JPG) 
+<!-- --- -->
+<!-- name: alone-in-the-mud -->
+<!-- class: top, left, animated, fadeIn -->
+<!-- background-size: contain -->
+<!-- background-image: url(https://media.defense.gov/2012/Feb/15/2000178303/1088/820/0/120212-F-QU140-134.JPG)  -->
 
-.foot-credit[Image credit: [U.S. Air Force photo/Staff Sgt. Alexy Saltekoff](https://www.afrc.af.mil/News/Photos/igphoto/2000178303/)]
+<!-- .foot-credit[Image credit: [U.S. Air Force photo/Staff Sgt. Alexy Saltekoff](https://www.afrc.af.mil/News/Photos/igphoto/2000178303/)] -->
 
-## .white[It feels like this]
+<!-- ## .white[It feels like this] -->
 
 ---
 name: together-in-mud
 class: top, left, animated, fadeIn
 background-size: contain
-background-image: url(https://i1.wp.com/toughmudder.com.au/wp-content/uploads/2018/12/46493611_1912900635432170_3984463782091948032_o.jpg?fit=1848%2C1230&ssl=1)
+background-image: url(https://media.defense.gov/2012/Feb/15/2000178303/1088/820/0/120212-F-QU140-134.JPG) 
 
-.foot-credit[Image credit: [Mathew Farrell](https://toughmudder.com.au)]
+.foot-credit[Image credit: [U.S. Air Force photo/Staff Sgt. Alexy Saltekoff](https://www.afrc.af.mil/News/Photos/igphoto/2000178303/)]
 
 ## .white[It is more like this]
 
@@ -260,7 +261,7 @@ class: top, left, animated, fadeIn
 # My best advice?
 
 --
-## Invest in your social life and wellbeing
+## Invest in your network, social life and wellbeing
 
 <div class="grid" style="text-align:center">
 
@@ -299,7 +300,7 @@ class: title-slide-final, left
 # Thank you! <img src="https://resbaz.github.io/resbaz2018/img/resbaz_logos/ResBaz_transparent_cropped.png" alt="ResBaz" width="250" align="right"/>
 
 
-<font color="#1DA1F2" size="6">`r icon::fa("twitter")`</font> [.white[@DrIdoBar]](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r icon::fa("paper-plane")`</font> [.white[i.bar@griffith.edu.au]](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r icon::fa("github")`</font> [.white[IdoBar/ResBazBris2019]](https://idobar.github.io/ResBazBris2019/)
+<font color="#1DA1F2" size="6">`r fa("twitter")`</font> [.white[@DrIdoBar]](https://twitter.com/DrIdoBar) &nbsp; &nbsp; &nbsp; <font color="#ED1C24" size="6">`r fa("paper-plane")`</font> [.white[i.bar@griffith.edu.au]](mailto::i.bar@griffith.edu.au) &nbsp; &nbsp; &nbsp; <font size="6">`r fa("github")`</font> [.white[IdoBar/ResBazBris2019]](https://idobar.github.io/ResBazBris2019/)
 
 
 <img src="img/graduation.JPG" alt="graduation" width="65%" style="margin: 0 auto; display: block;"/>
